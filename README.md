@@ -1,4 +1,4 @@
-# Olá, Bem vindo ao meu projeto AluraPlus
+# Olá, Bem vindo ao meu projeto AluraBooks
 
 ![AluraBooks](https://github.com/lukazsouza00/AluraBooks/assets/158626149/8664d97b-550f-4ae1-8808-b9d66aed6181)
 
